@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\foram\\source\\repos\\IsItALeapYear\\IsItALeapYear.csproj",
+      "projectUniqueName": "C:\\Users\\foram\\Source\\Repos\\CP-380-Unit-Testing\\IsItALeapYear\\IsItALeapYear.csproj",
       "projectName": "IsItALeapYear",
-      "projectPath": "C:\\Users\\foram\\source\\repos\\IsItALeapYear\\IsItALeapYear.csproj",
+      "projectPath": "C:\\Users\\foram\\Source\\Repos\\CP-380-Unit-Testing\\IsItALeapYear\\IsItALeapYear.csproj",
       "packagesPath": "C:\\Users\\foram\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\foram\\source\\repos\\IsItALeapYear\\obj\\",
+      "outputPath": "C:\\Users\\foram\\Source\\Repos\\CP-380-Unit-Testing\\IsItALeapYear\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\foram\\AppData\\Roaming\\NuGet\\NuGet.Config",
